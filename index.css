@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif, Arial, Helvetica;
+    text-align: center;
+    background-color: aliceblue;
+}
+h1{
+    margin: 21px 0px 7px 0px;
+}
+img{
+    width: 300px;
+    border-radius: 10px;
+    margin: 30px 0px 0px 0px;
+    box-shadow: 0px 0px 5px black;
+}
+p{
+    font-size: 1.8rem;
+    width: 19rem;
+    margin: 25px auto;
+    background-color: lavenderblush;
+    color: black;
+    box-shadow: 5px 5px 0px lavender;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+button{
+    width: 300px;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.5rem;
+    background-color: lavender;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+a{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
